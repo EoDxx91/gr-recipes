@@ -28,4 +28,4 @@ gitbranch: maint-3.8
 inherit: cmake
 satisfy:
   port: gr-ieee802-11
-source: git+https://github.com/bastibl/gr-ieee802-11.git
+source: git+https://github.com/EoDxx91/gr-ieee802-11.git
